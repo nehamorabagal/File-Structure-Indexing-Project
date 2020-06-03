@@ -1,7 +1,7 @@
 # File Structures - 17ISL68
 ## Assistant Professor: Mr. Vadiraja A
 ## Project Category: Indexing
-### Title: INDEXING
+### Title: INDEXING OF SALES RECORDS
 |Student Name |USN        |
 |:-----------:|:---------:|
 |Neha M S     |1JT17IS024 |
